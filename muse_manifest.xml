@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="promotieiiana.com" resolutions="1x" timestamp="1574272496769">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="promotieiiana.com" resolutions="1x" timestamp="1574272637936">
   <folder name="css">
     <file name="site_global.css" crc="3925779260"/>
-    <file name="index.css" crc="4294860614" ref="index"/>
-    <file name="nomq_index.css" crc="506552569" ref="index"/>
+    <file name="index.css" crc="3877148705" ref="index"/>
+    <file name="nomq_index.css" crc="90184566" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
@@ -445,5 +445,5 @@
     </folder>
     <file name="index.html" crc="474850664" seo="true" mt="1574271968732" redirect="true"/>
   </folder>
-  <file name="index.html" crc="154680868" seo="true" mt="1574272479423" redirect="true"/>
+  <file name="index.html" crc="3801602072" seo="true" mt="1574272626225" redirect="true"/>
 </manifest>
