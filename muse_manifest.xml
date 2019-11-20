@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="promotieiiana.com" resolutions="1x" timestamp="1574272637936">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="promotieiiana.com" resolutions="1x" timestamp="1574273441974">
   <folder name="css">
     <file name="site_global.css" crc="3925779260"/>
     <file name="index.css" crc="3877148705" ref="index"/>
@@ -19,65 +19,11 @@
     <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="camasa_orhideea_black_white299x354.jpg" crc="387726227" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index:index"/>
-    <file name="camasa_orhideea_5-1280x1514_white299x354.jpg" crc="10236224" seo="true" ref="phone>index">
+    <file name="romantica black white-crop-u7146.jpg" crc="4210803190" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="iiana-bluza-brodata rococo black white221x332.jpg" crc="59690729" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="iiana-bluza-brodata rococo-bl14roc-8221x332.jpg" crc="4080091491" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pieptar cu dichis_black white300x355.jpg" crc="4179921178" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pieptar cu dichis300x355.jpg" crc="24863292" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bluza cu pieptar black and white300x355.jpg" crc="39443557" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bluza cu pieptar300x355.jpg" crc="79610624" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="romantica black white-crop-u7146.jpg" crc="3855559493" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="romantica-crop-u7156.jpg" crc="3976059353" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="retro folk black white300x355.jpg" crc="515889096" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="retro folk300x355.jpg" crc="328097580" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pardesiu black white300x355.jpg" crc="3970405159" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pardesiu300x355.jpg" crc="295864015" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pieptarul cosanzenei black white219x328.jpg" crc="393185090" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pieptarul cosanzenei219x328.jpg" crc="3998740089" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="aramis black white219x328.jpg" crc="4148679456" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="aramis219x328.jpg" crc="46686606" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="maramures_black white219x328.jpg" crc="4208696575" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="maramures219x328.jpg" crc="506950867" seo="true" ref="phone>index">
+    <file name="romantica-crop-u7156.jpg" crc="4283095981" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="phone>index:tablet>index:index"/>
@@ -104,49 +50,38 @@
     </file>
     <file name="pieptar 3.jpg" crc="4145440137" seo="true" ref="phone>index:tablet>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="pieptar 1120x143.jpg" crc="492942750" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="pieptar 2.jpg" crc="196376974" seo="true" ref="phone>index:tablet>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="bluza urbana 3.jpg" crc="4207264" seo="true" ref="phone>index:tablet>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="bluza urbana 1.jpg" crc="271855717" seo="true" ref="phone>index:tablet>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="bluza urbana 2.jpg" crc="4087892406" seo="true" ref="phone>index:tablet>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="romantica 2.jpg" crc="4220922995" seo="true" ref="phone>index:tablet>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="romantica 3.jpg" crc="419323690" seo="true" ref="phone>index:tablet>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="romantica 1.jpg" crc="319500867" seo="true" ref="phone>index:tablet>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="retro folk 1.jpg" crc="31664698" seo="true" ref="phone>index:tablet>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="retro folk 2.jpg" crc="3994392275" seo="true" ref="phone>index:tablet>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="retro folk 3.jpg" crc="4161529544" seo="true" ref="phone>index:tablet>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="pardesiu 1120x228.jpg" crc="4086869218" seo="true" ref="phone>index">
@@ -160,38 +95,29 @@
     </file>
     <file name="4d6a1858-logo.jpg" crc="3938525373" seo="true" ref="phone>index:tablet>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="4d6a1920-logo.jpg" crc="3938193665" seo="true" ref="phone>index:tablet>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="4d6a1871-logo.jpg" crc="3991170966" seo="true" ref="phone>index:tablet>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="img_1833-loho.jpg" crc="447380921" seo="true" ref="phone>index:tablet>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="img_1770-logo.jpg" crc="3886955009" seo="true" ref="phone>index:tablet>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="img_1829-logo.jpg" crc="3773388711" seo="true" ref="phone>index:tablet>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="040419_924.jpg" crc="3882399419" seo="true" ref="phone>index:tablet>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="040419_1031.jpg" crc="356729376" seo="true" ref="phone>index:tablet>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="040419_904.jpg" crc="427873908" seo="true" ref="phone>index:tablet>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="camasa_orhideea_black_white434x513.jpg" crc="4066733264" seo="true" ref="tablet>index">
@@ -430,6 +356,60 @@
     <file name="rococo1.png" crc="469684373" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="camasa_orhideea_black_white314x371.jpg" crc="495612474" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="camasa_orhideea_5-1280x1514_white314x371.jpg" crc="43451874" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iiana-bluza-brodata rococo black white236x353.jpg" crc="4289092127" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iiana-bluza-brodata rococo-bl14roc-8236x353.jpg" crc="477064302" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pieptar cu dichis_black white314x372.jpg" crc="502789340" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pieptar cu dichis314x372.jpg" crc="4191611029" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bluza cu pieptar black and white314x372.jpg" crc="3904417915" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bluza cu pieptar314x372.jpg" crc="3934462655" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="retro folk black white314x372.jpg" crc="522365807" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="retro folk314x372.jpg" crc="4283192778" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pardesiu black white314x372.jpg" crc="85911069" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pardesiu314x372.jpg" crc="497007996" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pieptarul cosanzenei black white233x350.jpg" crc="3773471270" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pieptarul cosanzenei233x350.jpg" crc="3781654132" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aramis black white233x350.jpg" crc="216055562" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aramis233x350.jpg" crc="4250368572" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="maramures_black white233x350.jpg" crc="320852398" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="maramures233x350.jpg" crc="234206730" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -440,10 +420,9 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4166615503" ref="phone>index"/>
-      <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
+      <file name="index.css" crc="3905764390" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="474850664" seo="true" mt="1574271968732" redirect="true"/>
+    <file name="index.html" crc="3785818136" seo="true" mt="1574273424972" redirect="true"/>
   </folder>
   <file name="index.html" crc="3801602072" seo="true" mt="1574272626225" redirect="true"/>
 </manifest>
