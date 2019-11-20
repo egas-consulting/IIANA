@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="promotieiiana.com" resolutions="1x" timestamp="1574274388390">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="promotieiiana.com" resolutions="1x" timestamp="1574274825098">
   <folder name="css">
     <file name="site_global.css" crc="3925779260"/>
     <file name="index.css" crc="3877148705" ref="index"/>
@@ -20,7 +20,7 @@
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index:index"/>
-    <file name="romantica black white-crop-u7146.jpg" crc="4210803190" seo="true" ref="phone>index">
+    <file name="romantica black white-crop-u7146.jpg" crc="4134501266" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="romantica-crop-u7156.jpg" crc="4283095981" seo="true" ref="phone>index">
@@ -420,9 +420,9 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4125790072" ref="phone>index"/>
+      <file name="index.css" crc="4019083246" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3814056168" seo="true" mt="1574274375338" redirect="true"/>
+    <file name="index.html" crc="256248058" seo="true" mt="1574274802945" redirect="true"/>
   </folder>
   <file name="index.html" crc="3801602072" seo="true" mt="1574272626225" redirect="true"/>
 </manifest>
